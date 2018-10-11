@@ -1,1 +1,2 @@
 tämä on lapio2.txt -tiedosto
+tämä on uusi rivi tekstiä
