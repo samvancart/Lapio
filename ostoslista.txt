@@ -5,4 +5,4 @@ riisi
 liha
 kala
 saippua
-
+pulla
