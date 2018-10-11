@@ -1,2 +1,2 @@
 tämä on uusi lapio2.txt -tiedosto
-terveisiä mun koneelta
+Terveisiä mun koneelta ja GitHubista
